@@ -19,3 +19,5 @@ A simple Kanban-style task management application built with **React**.
 
 ![Board](screenshot/image.png)
 
+## Live Demo
+https://kanbantaskmanager-umber.vercel.app/
