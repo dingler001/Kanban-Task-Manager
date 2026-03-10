@@ -12,6 +12,7 @@ https://kanbantaskmanager-umber.vercel.app/
 * Move tasks across workflow stages
 * Edit tasks
 * Delete tasks
+* Drag and drop tasks between coloumns
 * Persistent storage with localStorage
 * Modern UI with galaxy background
 
